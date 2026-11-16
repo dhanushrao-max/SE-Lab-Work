@@ -1,0 +1,8 @@
+[
+  "test_pizza_order.py::test_pizza_inches_no_crash",
+  "test_pizza_order.py::test_pizza_inches_valid",
+  "test_pizza_order.py::test_split_bill_no_crash",
+  "test_pizza_order.py::test_split_bill_valid",
+  "test_pizza_order.py::test_toppings_price_no_crash",
+  "test_pizza_order.py::test_toppings_price_valid"
+]

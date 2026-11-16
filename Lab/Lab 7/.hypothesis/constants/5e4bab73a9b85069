@@ -1,0 +1,4 @@
+# file: C:\Users\dhanu\AppData\Roaming\Python\Python312\site-packages\_pytest\fixtures.py
+# hypothesis_version: 6.170.15
+
+[' with autouse=True', ', ', '-', '--fixtures', '--fixtures-per-test', '--funcargs', '...', '/', ':', 'FixtureValue', '_', '_V', '__self__', '_by_value', '_fixtureinfo', '_hash', '_key', '_mock_name', '_pytest', '_pytest.', 'argnames', 'args', 'class', 'conftest.py', 'def', 'direct', 'funcmanage', 'function', 'general', 'index', 'indirect', 'initialnames', 'instance', 'module', 'name2fixturedefs', 'names_closure', 'nofuncargs', 'package', 'param', 'parametrize', 'pypy_version_info', 'pytestmark', 'request', 'session', 'showfixtures', 'store_true', 'usefixtures', 'value']

@@ -1,0 +1,4 @@
+# file: C:\Users\dhanu\AppData\Roaming\Python\Python312\site-packages\_pytest\config\argparsing.py
+# hypothesis_version: 6.170.15
+
+[' | ', '*', ', ', '-', '--', '=', '@', 'Argument({})', 'Custom options', 'Literal', '[ \\t]+$', '_', '_action', '_anonymous', 'args', 'bool', 'default: ', 'dest', 'dest: ', 'file_or_dir', 'float', 'int', 'linelist', 'opts: ', 'override_ini', 'pathlist', 'paths', 'string', 'type: ', 'union', 'width']

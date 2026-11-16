@@ -1,0 +1,4 @@
+# file: C:\Users\dhanu\AppData\Roaming\Python\Python312\site-packages\_pytest\assertion\__init__.py
+# hypothesis_version: 6.170.15
+
+['\n~', '%', '%%', '--assert', 'MODE', '\\n', 'assertion', 'assertmode', 'bool', 'debugconfig', 'ndiff', 'plain', 'rewrite', 'store', 'terminalreporter']

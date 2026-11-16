@@ -1,0 +1,4 @@
+# file: C:\Users\dhanu\AppData\Roaming\Python\Python312\site-packages\pluggy\_hooks.py
+# hypothesis_version: 6.170.15
+
+['HookCaller', 'HookImpl', 'HookRelay', 'HookSpec', 'HookimplMarker', 'HookimplOpts', 'HookspecMarker', 'HookspecOpts', '_HookCaller', '_HookExec', '_HookImplFunction', '_HookRelay', '_Namespace', '_Plugin', '_SubsetHookCaller', 'varnames']
